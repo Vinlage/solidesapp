@@ -1,0 +1,42 @@
+.access{
+	width: 50%;
+	min-width: 240px;
+	margin: auto;
+}
+.access-switch{
+	margin-top: 50px;
+	font-size: 15px;
+	text-align: center;
+}
+.form-control{
+	margin-top: 10px;
+}
+.btn-access{
+	margin-top: 30px;
+	width: 100%;
+}
+
+.points-col{
+	min-width: 250px;
+	text-align: center;
+}
+.points-elements{
+	margin: 10px 0px 10px 0px;	
+}
+
+.points-input{
+	width: 160px;
+}
+
+.btn-points{
+	width: 160px;
+}
+
+.feature-select{
+	margin-left: 20px;
+}
+
+img {
+	max-width: 35px;
+	vertical-align: bottom;
+}
