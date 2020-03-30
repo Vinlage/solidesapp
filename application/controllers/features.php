@@ -47,6 +47,7 @@ class Features extends Main_Controller {
 			$this->points_model->init_points($uid);
 		}
 
+		date_default_timezone_set ("America/Recife");
 		$timestamp = $today = date("Y-m-d");
 		$params = array("company_in", "lunch_out", "lunch_in", "company_out");
 
